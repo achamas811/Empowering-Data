@@ -1,4 +1,4 @@
-# Empowering-Data
+# Empowering-Data-Project
 
 ### Instructions
 To run this program, you will need to install the following Python libraries:
